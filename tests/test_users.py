@@ -26,7 +26,7 @@ def test_user():
 
 def test_users_exist():
     """Test sprawdzający, czy użytkownicy są poprawnie załadowani"""
-    print("\n[INFO] Aktualni użytkownicy w systemie:", list(users.keys()))
+    print("\n[INFO] Aktualni użytkownicy w systemie:", list(users.keys.keys()))
     assert "Kamil" in users
     assert "Sebastian" in users
     assert "Hubert" in users

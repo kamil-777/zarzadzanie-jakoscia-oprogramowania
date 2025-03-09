@@ -113,4 +113,4 @@ def verify_signature(message: str, signature: str, public_key: str) -> str:
     
     except (ValueError, TypeError) as e:
         logging.warning(f"Nieudana weryfikacja podpisu: {e}")
-        return "Podpis jest nieprawidłowy."
+        raise ValueError("Podpis jest nieprawidłowy.")

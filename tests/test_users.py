@@ -1,6 +1,6 @@
 import pytest
 import os
-from users import users, KEYS_DIR
+from users import users, user_keys, KEYS_DIR
 from crypto_utils import generate_keys
 
 @pytest.fixture
@@ -26,7 +26,7 @@ def test_user():
 
 def test_users_exist():
     """Test sprawdzający, czy użytkownicy są poprawnie załadowani"""
-    print("\n[INFO] Aktualni użytkownicy w systemie:", list(users.keys.keys()))
+    print("\n[INFO] Aktualni użytkownicy w systemie:", list(user_keys.keys()))
     assert "Kamil" in users
     assert "Sebastian" in users
     assert "Hubert" in users

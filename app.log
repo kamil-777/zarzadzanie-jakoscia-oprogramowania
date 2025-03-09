@@ -1,0 +1,145 @@
+2025-03-02 14:55:00,123 - INFO - Wygenerowano nowe klucze RSA.
+2025-03-02 14:55:00,242 - INFO - Wygenerowano i zapisano klucze dla u¿ytkownika: Hubert
+2025-03-02 14:55:00,789 - INFO - Wygenerowano nowe klucze RSA.
+2025-03-02 14:55:00,903 - INFO - Wygenerowano i zapisano klucze dla u¿ytkownika: Sebastian
+2025-03-02 14:55:03,039 - INFO - Wygenerowano nowe klucze RSA.
+2025-03-02 14:55:03,153 - INFO - Wygenerowano i zapisano klucze dla u¿ytkownika: Kamil
+2025-03-02 14:55:03,153 - INFO - Wszystkie klucze u¿ytkowników zosta³y poprawnie za³adowane.
+2025-03-02 15:02:52,670 - INFO - Odszyfrowano klucz dla u¿ytkownika: Sebastian
+2025-03-02 15:02:52,670 - INFO - Odszyfrowano klucz dla u¿ytkownika: Kamil
+2025-03-02 15:02:52,671 - INFO - Odszyfrowano klucz dla u¿ytkownika: Hubert
+2025-03-02 15:02:52,671 - INFO - Wszystkie klucze u¿ytkowników zosta³y poprawnie za³adowane.
+2025-03-02 15:04:15,585 - INFO - Wiadomoœæ zosta³a zaszyfrowana.
+2025-03-02 15:04:59,514 - INFO - Wiadomoœæ zosta³a zaszyfrowana.
+2025-03-02 15:05:20,181 - ERROR - Próba zaszyfrowania pustej wiadomoœci.
+2025-03-02 15:06:10,016 - INFO - Wiadomoœæ zosta³a zaszyfrowana.
+2025-03-02 15:07:48,769 - INFO - Wiadomoœæ zosta³a zaszyfrowana.
+2025-03-02 15:08:44,184 - INFO - Wiadomoœæ zosta³a zaszyfrowana.
+2025-03-02 15:09:19,945 - INFO - Wiadomoœæ zosta³a zaszyfrowana.
+2025-03-02 15:10:00,215 - INFO - Wiadomoœæ zosta³a zaszyfrowana.
+2025-03-02 15:11:57,724 - INFO - Wiadomoœæ zosta³a zaszyfrowana.
+2025-03-02 15:16:49,225 - INFO - Odszyfrowano klucz dla u¿ytkownika: Kamil
+2025-03-02 15:16:49,225 - INFO - Odszyfrowano klucz dla u¿ytkownika: Hubert
+2025-03-02 15:16:49,225 - INFO - Odszyfrowano klucz dla u¿ytkownika: Sebastian
+2025-03-02 15:16:49,225 - INFO - Wszystkie klucze u¿ytkowników zosta³y poprawnie za³adowane.
+2025-03-02 15:17:04,673 - INFO - Wiadomoœæ zosta³a zaszyfrowana.
+2025-03-02 15:17:46,231 - INFO - Wiadomoœæ zosta³a zaszyfrowana.
+2025-03-02 15:18:18,322 - INFO - Wiadomoœæ zosta³a zaszyfrowana.
+2025-03-02 15:19:24,544 - INFO - Wiadomoœæ zosta³a zaszyfrowana.
+2025-03-02 15:19:35,805 - INFO - Wiadomoœæ zosta³a zaszyfrowana.
+2025-03-02 15:24:24,439 - ERROR - Próba zaszyfrowania pustej wiadomoœci.
+2025-03-02 15:24:34,268 - ERROR - Próba zaszyfrowania pustej wiadomoœci.
+2025-03-02 15:24:41,641 - WARNING - Nieudana weryfikacja podpisu: Invalid signature
+2025-03-02 15:24:53,689 - INFO - Wiadomoœæ zosta³a zaszyfrowana.
+2025-03-02 15:25:36,844 - INFO - Odszyfrowano klucz dla u¿ytkownika: Kamil
+2025-03-02 15:25:36,845 - INFO - Odszyfrowano klucz dla u¿ytkownika: Hubert
+2025-03-02 15:25:36,846 - INFO - Odszyfrowano klucz dla u¿ytkownika: Sebastian
+2025-03-02 15:25:36,846 - INFO - Wszystkie klucze u¿ytkowników zosta³y poprawnie za³adowane.
+2025-03-02 15:25:40,792 - INFO - Wiadomoœæ zosta³a zaszyfrowana.
+2025-03-02 16:54:40,331 - INFO - Odszyfrowano klucz dla u¿ytkownika: Sebastian
+2025-03-02 16:54:40,333 - INFO - Odszyfrowano klucz dla u¿ytkownika: Hubert
+2025-03-02 16:54:40,334 - INFO - Odszyfrowano klucz dla u¿ytkownika: Kamil
+2025-03-02 16:54:40,334 - INFO - Wszystkie klucze u¿ytkowników zosta³y poprawnie za³adowane.
+2025-03-02 16:54:51,857 - INFO - Wiadomoœæ zosta³a zaszyfrowana.
+2025-03-02 17:02:49,542 - INFO - Wiadomoœæ zosta³a zaszyfrowana.
+2025-03-02 17:06:39,765 - INFO - Odszyfrowano klucz dla u¿ytkownika: Sebastian
+2025-03-02 17:06:39,765 - INFO - Odszyfrowano klucz dla u¿ytkownika: Hubert
+2025-03-02 17:06:39,766 - INFO - Odszyfrowano klucz dla u¿ytkownika: Kamil
+2025-03-02 17:06:39,766 - INFO - Wszystkie klucze u¿ytkowników zosta³y poprawnie za³adowane.
+2025-03-02 17:06:50,547 - INFO - Wiadomoœæ zosta³a zaszyfrowana.
+2025-03-02 17:07:09,607 - INFO - Wiadomoœæ zosta³a zaszyfrowana.
+2025-03-02 17:07:26,117 - INFO - Wiadomoœæ zosta³a zaszyfrowana.
+2025-03-02 17:07:55,293 - INFO - Wiadomoœæ zosta³a zaszyfrowana.
+2025-03-02 17:08:27,407 - INFO - Wiadomoœæ zosta³a zaszyfrowana.
+2025-03-02 17:21:35,536 - INFO - Odszyfrowano klucz dla u¿ytkownika: Hubert
+2025-03-02 17:21:35,538 - INFO - Odszyfrowano klucz dla u¿ytkownika: Sebastian
+2025-03-02 17:21:35,539 - INFO - Odszyfrowano klucz dla u¿ytkownika: Kamil
+2025-03-02 17:21:35,539 - INFO - Wszystkie klucze u¿ytkowników zosta³y poprawnie za³adowane.
+2025-03-02 17:21:43,772 - INFO - Wiadomoœæ zosta³a zaszyfrowana.
+2025-03-02 17:27:25,979 - INFO - Odszyfrowano klucz dla u¿ytkownika: Hubert
+2025-03-02 17:27:25,981 - INFO - Odszyfrowano klucz dla u¿ytkownika: Kamil
+2025-03-02 17:27:25,982 - INFO - Odszyfrowano klucz dla u¿ytkownika: Sebastian
+2025-03-02 17:27:25,982 - INFO - Wszystkie klucze u¿ytkowników zosta³y poprawnie za³adowane.
+2025-03-02 17:27:32,140 - INFO - \u2705 Wiadomoœæ zosta³a poprawnie zaszyfrowana.
+2025-03-02 17:32:43,906 - INFO - Odszyfrowano klucz dla u¿ytkownika: Kamil
+2025-03-02 17:32:43,907 - INFO - Odszyfrowano klucz dla u¿ytkownika: Sebastian
+2025-03-02 17:32:43,908 - INFO - Odszyfrowano klucz dla u¿ytkownika: Hubert
+2025-03-02 17:32:43,908 - INFO - Wszystkie klucze u¿ytkowników zosta³y poprawnie za³adowane.
+2025-03-02 17:43:10,062 - INFO - Odszyfrowano klucz dla u¿ytkownika: Sebastian
+2025-03-02 17:43:10,062 - INFO - Odszyfrowano klucz dla u¿ytkownika: Hubert
+2025-03-02 17:43:10,063 - INFO - Odszyfrowano klucz dla u¿ytkownika: Kamil
+2025-03-02 17:43:10,063 - INFO - Wszystkie klucze u¿ytkowników zosta³y poprawnie za³adowane.
+2025-03-02 17:43:16,992 - INFO - \u2705 Wiadomoœæ zosta³a poprawnie zaszyfrowana.
+2025-03-02 17:43:38,535 - INFO - \u2705 Wiadomoœæ zosta³a poprawnie zaszyfrowana.
+2025-03-02 17:43:55,210 - INFO - \u2705 Wiadomoœæ zosta³a poprawnie zaszyfrowana.
+2025-03-02 17:44:11,749 - INFO - \u2705 Wiadomoœæ zosta³a poprawnie zaszyfrowana.
+2025-03-02 17:44:19,852 - INFO - \u2705 Wiadomoœæ zosta³a poprawnie zaszyfrowana.
+2025-03-02 17:44:38,646 - INFO - \u2705 Wiadomoœæ zosta³a poprawnie zaszyfrowana.
+2025-03-02 17:49:16,124 - INFO - Za³adowano klucze dla u¿ytkownika: Kamil
+2025-03-02 17:49:16,135 - INFO - Za³adowano klucze dla u¿ytkownika: Sebastian
+2025-03-02 17:49:16,136 - INFO - Za³adowano klucze dla u¿ytkownika: Hubert
+2025-03-02 17:49:16,136 - INFO - \u2705 Wszystkie klucze u¿ytkowników zosta³y poprawnie za³adowane.
+2025-03-02 17:49:23,983 - INFO - \u2705 Wiadomoœæ zosta³a poprawnie zaszyfrowana.
+2025-03-02 17:49:29,581 - INFO - \u2705 Wiadomoœæ zosta³a poprawnie odszyfrowana.
+2025-03-02 17:50:05,228 - INFO - \u2705 Wiadomoœæ zosta³a podpisana cyfrowo.
+2025-03-02 17:50:11,654 - INFO - \u2705 Podpis zosta³ poprawnie zweryfikowany.
+2025-03-02 17:50:13,773 - WARNING - \u26a0\ufe0f Nieudana weryfikacja podpisu: Invalid signature
+2025-03-02 17:58:25,927 - INFO - \u2705 Wiadomoœæ zosta³a poprawnie zaszyfrowana.
+2025-03-02 17:58:32,935 - INFO - \u2705 Wiadomoœæ zosta³a poprawnie odszyfrowana.
+2025-03-02 17:58:40,038 - ERROR - \u274c B³¹d podczas odszyfrowywania: Incorrect decryption.
+2025-03-08 16:06:12,504 - INFO - Za³adowano klucze dla u¿ytkownika: Sebastian
+2025-03-08 16:06:12,520 - INFO - Za³adowano klucze dla u¿ytkownika: Hubert
+2025-03-08 16:06:12,521 - INFO - Za³adowano klucze dla u¿ytkownika: Kamil
+2025-03-08 16:06:12,521 - INFO - \u2705 Wszystkie klucze u¿ytkowników zosta³y poprawnie za³adowane.
+2025-03-08 16:06:29,423 - INFO - \u2705 Wiadomoœæ zosta³a poprawnie zaszyfrowana.
+2025-03-08 16:06:36,247 - INFO - \u2705 Wiadomoœæ zosta³a poprawnie odszyfrowana.
+2025-03-08 16:06:39,472 - ERROR - \u274c B³¹d podczas odszyfrowywania: Incorrect decryption.
+2025-03-08 16:11:33,371 - INFO - Za³adowano klucze dla u¿ytkownika: Hubert
+2025-03-08 16:11:33,371 - INFO - Za³adowano klucze dla u¿ytkownika: Sebastian
+2025-03-08 16:11:33,372 - INFO - Za³adowano klucze dla u¿ytkownika: Kamil
+2025-03-08 16:11:33,372 - INFO - \u2705 Wszystkie klucze u¿ytkowników zosta³y poprawnie za³adowane.
+2025-03-08 16:12:12,879 - INFO - Za³adowano klucze dla u¿ytkownika: Kamil
+2025-03-08 16:12:12,880 - INFO - Za³adowano klucze dla u¿ytkownika: Sebastian
+2025-03-08 16:12:12,880 - INFO - Za³adowano klucze dla u¿ytkownika: Hubert
+2025-03-08 16:12:12,880 - INFO - \u2705 Wszystkie klucze u¿ytkowników zosta³y poprawnie za³adowane.
+2025-03-08 16:12:32,978 - INFO - Za³adowano klucze dla u¿ytkownika: Sebastian
+2025-03-08 16:12:33,000 - INFO - Za³adowano klucze dla u¿ytkownika: Kamil
+2025-03-08 16:12:33,000 - INFO - Za³adowano klucze dla u¿ytkownika: Hubert
+2025-03-08 16:12:33,000 - INFO - \u2705 Wszystkie klucze u¿ytkowników zosta³y poprawnie za³adowane.
+2025-03-08 16:16:17,445 - INFO - Za³adowano klucze dla u¿ytkownika: Sebastian
+2025-03-08 16:16:17,445 - INFO - Za³adowano klucze dla u¿ytkownika: Hubert
+2025-03-08 16:16:17,446 - INFO - Za³adowano klucze dla u¿ytkownika: Kamil
+2025-03-08 16:16:17,446 - INFO - \u2705 Wszystkie klucze u¿ytkowników zosta³y poprawnie za³adowane.
+2025-03-08 16:18:05,917 - INFO - Za³adowano klucze dla u¿ytkownika: Hubert
+2025-03-08 16:18:05,917 - INFO - Za³adowano klucze dla u¿ytkownika: Kamil
+2025-03-08 16:18:05,918 - INFO - Za³adowano klucze dla u¿ytkownika: Sebastian
+2025-03-08 16:18:05,918 - INFO - \u2705 Wszystkie klucze u¿ytkowników zosta³y poprawnie za³adowane.
+2025-03-08 16:21:48,856 - INFO - Za³adowano klucze dla u¿ytkownika: Kamil
+2025-03-08 16:21:48,857 - INFO - Za³adowano klucze dla u¿ytkownika: Hubert
+2025-03-08 16:21:48,858 - INFO - Za³adowano klucze dla u¿ytkownika: Sebastian
+2025-03-08 16:21:48,858 - INFO - \u2705 Wszystkie klucze u¿ytkowników zosta³y poprawnie za³adowane.
+2025-03-08 16:21:50,207 - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-83' coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at C:\Users\PC\AppData\Local\Programs\Python\Python310\lib\site-packages\tornado\websocket.py:1085> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "C:\Users\PC\AppData\Local\Programs\Python\Python310\lib\site-packages\tornado\websocket.py", line 1087, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\PC\AppData\Local\Programs\Python\Python310\lib\site-packages\tornado\websocket.py", line 1089, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+2025-03-08 16:22:54,846 - INFO - Za³adowano klucze dla u¿ytkownika: Hubert
+2025-03-08 16:22:54,847 - INFO - Za³adowano klucze dla u¿ytkownika: Kamil
+2025-03-08 16:22:54,847 - INFO - Za³adowano klucze dla u¿ytkownika: Sebastian
+2025-03-08 16:22:54,847 - INFO - \u2705 Wszystkie klucze u¿ytkowników zosta³y poprawnie za³adowane.
+2025-03-08 16:23:18,824 - INFO - Za³adowano klucze dla u¿ytkownika: Hubert
+2025-03-08 16:23:18,824 - INFO - Za³adowano klucze dla u¿ytkownika: Kamil
+2025-03-08 16:23:18,825 - INFO - Za³adowano klucze dla u¿ytkownika: Sebastian
+2025-03-08 16:23:18,825 - INFO - \u2705 Wszystkie klucze u¿ytkowników zosta³y poprawnie za³adowane.
+2025-03-08 21:09:00,332 - INFO - Za³adowano klucze dla u¿ytkownika: Kamil
+2025-03-08 21:09:00,346 - INFO - Za³adowano klucze dla u¿ytkownika: Hubert
+2025-03-08 21:09:00,347 - INFO - Za³adowano klucze dla u¿ytkownika: Sebastian
+2025-03-08 21:09:00,348 - INFO - Wszystkie klucze u¿ytkowników zosta³y poprawnie za³adowane.

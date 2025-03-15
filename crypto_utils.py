@@ -1,9 +1,10 @@
 import logging
+import base64
 from Crypto.PublicKey import RSA
 from Crypto.Cipher import PKCS1_OAEP
 from Crypto.Signature import pkcs1_15
 from Crypto.Hash import SHA256
-import base64
+
 
 # Konfiguracja logowania
 logging.basicConfig(
@@ -11,6 +12,7 @@ logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s - %(levelname)s - %(message)s"
 )
+
 
 def generate_keys():
     """Generuje klucz RSA (2048 bitów) i zwraca go jako (private_key, public_key)."""
@@ -22,6 +24,7 @@ def generate_keys():
     
     return private_key.decode(), public_key.decode()
 
+
 def is_valid_base64(s):
     """Sprawdza, czy string jest poprawnym Base64"""
     try:
@@ -29,6 +32,7 @@ def is_valid_base64(s):
         return True
     except Exception:
         return False
+
 
 def encrypt_message(message, public_key):
     """Szyfruje wiadomość kluczem publicznym."""
@@ -51,6 +55,7 @@ def encrypt_message(message, public_key):
         logging.error(f"Błąd podczas szyfrowania: {e}")
         raise ValueError("Błąd podczas szyfrowania wiadomości.")
 
+
 def decrypt_message(encrypted_message, private_key):
     """Odszyfrowuje wiadomość kluczem prywatnym"""
 
@@ -58,7 +63,7 @@ def decrypt_message(encrypted_message, private_key):
         logging.error("Próba odszyfrowania pustej wiadomości.")
         raise ValueError("Nie można odszyfrować pustej wiadomości.")
 
-    # 🛠 Sprawdzenie poprawności base64 przed dekodowaniem
+    # Sprawdzenie poprawności base64 przed dekodowaniem
     if not is_valid_base64(encrypted_message):
         logging.error("Wiadomość nie jest poprawnym Base64.")
         raise ValueError("Błąd: wiadomość nie jest poprawnie zakodowana w Base64.")
@@ -80,6 +85,7 @@ def decrypt_message(encrypted_message, private_key):
         logging.error(f"Błąd podczas odszyfrowywania: {e}")
         raise ValueError("Błąd podczas odszyfrowywania. Sprawdź poprawność wiadomości.")
 
+
 def sign_message(message: str, private_key: str) -> str:
     """Tworzy podpis cyfrowy wiadomości"""
     
@@ -98,6 +104,7 @@ def sign_message(message: str, private_key: str) -> str:
     except Exception as e:
         logging.error(f"Błąd podczas podpisywania wiadomości: {e}")
         raise ValueError("Błąd podczas podpisywania wiadomości.")
+
 
 def verify_signature(message: str, signature: str, public_key: str) -> str:
     """Weryfikuje podpis cyfrowy wiadomości"""

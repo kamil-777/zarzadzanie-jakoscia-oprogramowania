@@ -3,7 +3,11 @@ import logging
 from crypto_utils import generate_keys
 
 # Konfiguracja logowania
-logging.basicConfig(filename="app.log", level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
+logging.basicConfig(
+    filename="app.log", 
+    level=logging.INFO, 
+    format="%(asctime)s - %(levelname)s - %(message)s"
+    )
 
 # Katalog do przechowywania kluczy
 KEYS_DIR = "keys"
@@ -14,6 +18,7 @@ users = {"Kamil", "Sebastian", "Hubert"}
 
 # Słownik do przechowywania kluczy w pamięci
 user_keys = {}
+
 
 def get_key_path(username, key_type):
     """Zwraca ścieżkę do pliku z kluczem użytkownika."""

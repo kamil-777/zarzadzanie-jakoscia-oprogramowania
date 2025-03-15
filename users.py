@@ -4,8 +4,8 @@ from crypto_utils import generate_keys
 
 # Konfiguracja logowania
 logging.basicConfig(
-    filename="app.log", 
-    level=logging.INFO, 
+    filename="app.log",
+    level=logging.INFO,
     format="%(asctime)s - %(levelname)s - %(message)s"
     )
 
@@ -23,6 +23,7 @@ user_keys = {}
 def get_key_path(username, key_type):
     """Zwraca ścieżkę do pliku z kluczem użytkownika."""
     return os.path.join(KEYS_DIR, f"{username}_{key_type}.pem")
+
 
 for user in users:
     private_key_path = get_key_path(user, "private")

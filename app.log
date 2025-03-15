@@ -147,3 +147,12 @@ tornado.websocket.WebSocketClosedError
 2025-03-09 17:36:01,327 - INFO - Za³adowano klucze dla u¿ytkownika: Sebastian
 2025-03-09 17:36:01,327 - INFO - Za³adowano klucze dla u¿ytkownika: Kamil
 2025-03-09 17:36:01,327 - INFO - Wszystkie klucze u¿ytkowników zosta³y poprawnie za³adowane.
+2025-03-15 18:50:48,380 - INFO - Za³adowano klucze dla u¿ytkownika: Kamil
+2025-03-15 18:50:48,386 - INFO - Za³adowano klucze dla u¿ytkownika: Sebastian
+2025-03-15 18:50:48,388 - INFO - Za³adowano klucze dla u¿ytkownika: Hubert
+2025-03-15 18:50:48,388 - INFO - Wszystkie klucze u¿ytkowników zosta³y poprawnie za³adowane.
+2025-03-15 18:51:01,328 - INFO - Wiadomoœæ zosta³a poprawnie zaszyfrowana.
+2025-03-15 18:51:05,913 - INFO - Wiadomoœæ zosta³a poprawnie odszyfrowana.
+2025-03-15 18:51:14,078 - INFO - Wiadomoœæ zosta³a podpisana cyfrowo.
+2025-03-15 18:51:30,376 - INFO - Podpis zosta³ poprawnie zweryfikowany.
+2025-03-15 18:51:36,048 - WARNING - Nieudana weryfikacja podpisu: Invalid signature
